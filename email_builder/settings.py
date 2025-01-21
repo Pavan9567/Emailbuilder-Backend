@@ -56,7 +56,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',
+    'https://classy-duckanoo-c165a1.netlify.app/',
 ]
 
 ROOT_URLCONF = 'email_builder.urls'
