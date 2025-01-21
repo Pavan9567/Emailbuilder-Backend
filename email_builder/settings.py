@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-c--a+7vnw+1zzkber7e7()53my%xw&sl8rjz8@o(*%%+bkg-c8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['email-builder.onrender.com', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['https://emailbuilder-backend-p9c5.onrender.com', '127.0.0.1:8000']
 
 
 # Application definition
